@@ -153,7 +153,7 @@ int main() {
                     cout << "Nueva ciudad: ";
                     getline(cin, estudiantes[i].direccion.ciudad);
 
-                    cout << "✅ Datos modificados correctamente." << endl;
+                    cout << " Datos modificados correctamente." << endl;
                     encontrado = true;
                     break;
                 }
@@ -176,4 +176,5 @@ int main() {
 
     return 0;
 }
+
 
