@@ -160,7 +160,7 @@ int main() {
             }
 
             if (!encontrado) {
-                cout << "❌ No se encontro ese estudiante." << endl;
+                cout << " No se encontro ese estudiante." << endl;
             }
         }
 
@@ -176,3 +176,4 @@ int main() {
 
     return 0;
 }
+
