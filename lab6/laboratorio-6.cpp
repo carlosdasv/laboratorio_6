@@ -62,7 +62,7 @@ int main() {
             getline(cin, estudiantes[cantidad].direccion.ciudad);
 
             cantidad++;
-            cout << "✅ Estudiante agregado correctamente." << endl;
+            cout << " Estudiante agregado correctamente." << endl;
         }
 
         else if (opcion == 2) {
@@ -165,7 +165,7 @@ int main() {
         }
 
         else if (opcion == 5) {
-            cout << "👋 Saliendo del programa... Adios!" << endl;
+            cout << " Saliendo del programa... Adios!" << endl;
         }
 
         else {
@@ -176,5 +176,6 @@ int main() {
 
     return 0;
 }
+
 
 
